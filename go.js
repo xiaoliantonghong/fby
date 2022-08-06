@@ -19,8 +19,8 @@ class App extends React.Component {
           background: '#f7f7f7',
 		  
         }}>
-		<p class="c_blue c_link">最新地址➊：<a href="https://500dh1.shop" target="_blank"><font color="#0025ff">https://500dh1.shop</font></a><br /></p>
-		<p class="c_blue c_link">最新地址➋：<a href="https://500dh2.shop" target="_blank"><font color="#0025ff">https://500dh2.shop</font></a><br /></p>
+		<p class="c_blue c_link">最新地址➊：<a href="https://dh-3.top" target="_blank"><font color="#0025ff">https://dh-3.top</font></a><br /></p>
+		<p class="c_blue c_link">最新地址➋：<a href="https://dh-4.top" target="_blank"><font color="#0025ff">https://dh-4.top</font></a><br /></p>
 		<p class="c_blue c_link"><a href="https://t.me/dizhifabuye" target="_blank"><font color="#0025ff">点击加入电报交流群</font></a></p>
 		
         </div>	
