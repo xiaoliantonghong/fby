@@ -21,9 +21,9 @@ class App extends React.Component {
           background: '#f7f7f7',
 		  
         }}>
-		<p class="c_blue c_link">最新地址➊：<a href="https://dh-3.top" target="_blank"><font color="#0025ff">500dh.pro</font></a><br /></p>
-		<p class="c_blue c_link">最新地址➋：<a href="https://dh-4.top" target="_blank"><font color="#0025ff">500dh.run</font></a><br /></p>
-		<p class="c_blue c_link">最新地址➌：<a href="https://dh-2.top" target="_blank"><font color="#0025ff">500dh.fun</font></a><br /></p>
+		<p class="c_blue c_link">最新地址➊：<a href="https://wbdh.top" target="_blank"><font color="#0025ff">500dh.pro</font></a><br /></p>
+		<p class="c_blue c_link">最新地址➋：<a href="https://wb2.top" target="_blank"><font color="#0025ff">500dh.run</font></a><br /></p>
+		<p class="c_blue c_link">最新地址➌：<a href="https://wb7.top" target="_blank"><font color="#0025ff">500dh.fun</font></a><br /></p>
 		<p class="c_blue c_link"><a href="https://t.me/dizhifabuye" target="_blank"><font color="#0025ff">点击加入电报交流群</font></a></p>
 		<font color="#FF0000">请收藏本页地址，以防找不到回家的路。</font><br /><br />
 
